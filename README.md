@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Github Page URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-solution-zVod2crIB)
+- Live Site URL: [Github Page URL here](https://kary01.github.io/challenge-nft-preview-card/)
 
 ## My process
 
