@@ -36,4 +36,23 @@ body {
   font-family: 'Outfit', sans-serif;
 }
 
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 500px;
+  padding: 12px;
+}
+
+.card .card_hero--image {
+  width: 280px;
+  height: 300px;
+}
+
+.card .card_hero--image img {
+  width: 100%;
+  height: auto;
+}
 
