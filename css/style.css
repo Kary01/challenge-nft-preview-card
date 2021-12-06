@@ -56,3 +56,19 @@ body {
   height: auto;
 }
 
+.card .card_main {
+  width: 280px;
+  height: 150px;
+}
+
+.card .card_main .card_main--title {
+  font-size: 1.8rem;
+  font-weight: var(--font-weight-black);
+  text-align: left;
+}
+
+.card .card_main .card_main--copy {
+  font-size: var(--font-size-paragraph);
+  font-weight: var(--font-weight-medium);
+  text-align: left;
+}
