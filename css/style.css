@@ -98,3 +98,25 @@ body {
 .card_main--details div .first {
   color: var(--cyan);
 }
+
+.card .card_attribution {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+
+.card .card_attribution .card_attribution--avatar {
+  width: 24px;
+  height: 24px;
+  margin-right: 12px;
+}
+
+.card .card_attribution p {
+  font-size: var(--font-size-paragraph);
+}
+
+.card .card_attribution p span{
+  
+}
