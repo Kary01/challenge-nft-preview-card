@@ -182,3 +182,9 @@ body {
   text-decoration: none;
   color: hsl(228, 45%, 44%); 
 }
+
+@media screen and (min-width: 640px) {
+  .attribution {
+    font-size: var(--font-size-paragraph);
+  }
+}
