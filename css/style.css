@@ -65,10 +65,36 @@ body {
   font-size: 1.8rem;
   font-weight: var(--font-weight-black);
   text-align: left;
+  margin: 14px 0;
 }
 
 .card .card_main .card_main--copy {
   font-size: var(--font-size-paragraph);
   font-weight: var(--font-weight-medium);
   text-align: left;
+}
+
+.card .card_main .card_main--details {
+  display: flex;
+  justify-content: space-between;
+  margin: 14px 0;
+}
+
+.card .card_main .card_main--details div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.card_main--details div .card_main--icon {
+  margin-right: 4px;
+}
+
+.card_main--details div p {
+  font-weight: var(--font-weight-black);
+  font-size: var(--font-size-paragraph);
+}
+
+.card_main--details div .first {
+  color: var(--cyan);
 }
