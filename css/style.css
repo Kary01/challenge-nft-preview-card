@@ -43,12 +43,13 @@ body {
   align-items: center;
   width: 300px;
   height: 500px;
-  padding: 12px;
+  padding: 16px;
+  background-color: var(--very-dark-blue-card);
 }
 
 .card .card_hero--image {
-  width: 280px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
 }
 
 .card .card_hero--image img {
@@ -57,7 +58,7 @@ body {
 }
 
 .card .card_main {
-  width: 280px;
+  width: 250px;
   height: 150px;
 }
 
@@ -103,8 +104,10 @@ body {
   display: flex;
   flex-direction: row;
   align-items: center;
-  width: 100%;
+  width: 250px;
   height: auto;
+  padding: 14px 0;
+  border-top: 1px solid var(--very-dark-blue-line);
 }
 
 .card .card_attribution .card_attribution--avatar {
